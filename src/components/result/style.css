@@ -1,0 +1,24 @@
+.result-page{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: linear-gradient(rgb(213, 237, 247),rgb(184, 222, 250));
+    border-radius: 25px;
+    gap: 5%;
+}
+
+.restart-button{
+    padding: 10px 30px;
+    background-color: crimson;
+    border: none;
+    border-radius: 20px;
+    transition: transform .2s ease-in-out;
+    color: whitesmoke;
+}
+
+.restart-button:hover{
+    transform: scale(1.1);
+}

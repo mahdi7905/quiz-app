@@ -1,0 +1,21 @@
+.answerWrapper{
+    background-color: rgb(218, 226, 255);
+    border: 5px rgb(113, 113, 184);
+    border-style:ridge;
+    width: 100%;
+    padding: 8px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.correct{
+    border-color: greenyellow;
+}
+.wrong {
+    border-color: crimson;
+}
+
+.answerWrapper:disabled{
+    opacity: .6;
+    
+}

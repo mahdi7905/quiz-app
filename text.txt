@@ -1,0 +1,126 @@
+https://drive.google.com/file/d/1q0GwKLPftozZ-CIdQSvtrhY1PgtDUYzM/view?usp=drive_link
+
+https://github.com/mahdi7905
+
+https://www.linkedin.com/in/mahadi-mansur-480a03276/
+
+
+What HTML tag makes a link?
+ A. <a>
+ B. <tr>
+ C. <img />
+ D. <br />
+
+What HTML tag makes a new line?
+ A. <a>
+ B. <tr>
+ C. <img />
+ D. <br />
+
+What HTML tag do you put things in if you want them to appear on the page?
+ A. <html>
+ B. <head>
+ C. <body>
+ D. <p>
+
+What tag attribute can you put CSS code into?
+ A. title
+ B. height
+ C. style
+ D. width
+
+What tag do you use to put a title on a table?
+ A. <tr>
+ B. <caption>
+ C. <th>
+ D. <title>
+
+What CSS property makes the colour of the page change?
+ A. font-color
+ B. font-size
+ C. color
+ D. background-color
+
+Give an example of a boolean attribute.
+ A. autoplay
+ B. height
+ C. style
+ D. title
+
+What is wrong with the code <body>Hello<body/>?
+ A. it should be </body>Hello<body>
+ B. it should be </body>Hello</body>
+ C. it should be <body>Hello</body>
+ D. it should be <body>Hello<body>
+
+What CSS property makes text go bold?
+ A. font-size
+ B. text-decoration
+ C. bold
+ D. font-weight
+
+What attribute of the img tag displays things on the page if the picture cannot be?
+ A. src
+ B. alt
+ C. style
+ D. height
+
+What type of file ends in a three letter code of .mp4?
+ A. video
+ B. sound
+ C. picture
+ D. HTML
+
+What tag adds comments to your HTML code?
+ A. <title>
+ B. <!-->
+ C. <caption>
+ D. <comment>
+
+What two other tags do li tags need to work?
+ A. <ul> or <h1>
+ B. <h1> or <ol>
+ C. <h1> or <p>
+ D. <ul> or <ol>
+
+What is an example of a CSS event?
+ A. start
+ B. stop
+ C. hover
+ D. play
+
+What should every CSS declaration end with?
+ A. ;
+ B. a closing tag
+ C. =
+ D. "
+
+What is CSS code called if it starts with a ., e.g. .glow?
+ A. inline
+ B. class
+ C. external
+ D. value
+
+What is a CSS inline style?
+ A. CSS code in a style attribute
+ B. CSS code in a style tag
+ C. CSS code in an external css file
+ D. HTML code
+
+What CSS code is an example of a function?
+ A. text-shadow
+ B. background-image
+ C. radial-gradient
+ D. a:hover
+
+Which part of this CSS code is called the selector by experts? tr { color:red; }
+ A. tr
+ B. color
+ C. red
+ D. all of the code
+
+What is wrong with the code <br>?
+ A. nothing
+ B. it should be </br>
+ C. it should be <br \>
+ D. it should be <br />
